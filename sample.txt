@@ -1,0 +1,4 @@
+# Create a test file to upload
+with open("sample.txt", "w") as f:
+f.write("This is a test file for S3 upload.")
+
